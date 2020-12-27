@@ -4,7 +4,8 @@ Assignments | ME7223 - Optimization Methods for Mechanical Design
 
 The course content is an overlap with the 'Design and Optimization of Energy Systems' course.
 
-## Author:
+## Author
 
-Saarthak Marathe,
+Saarthak Marathe
+
 IIT Madras
